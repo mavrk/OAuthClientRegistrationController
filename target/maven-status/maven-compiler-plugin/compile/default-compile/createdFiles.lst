@@ -1,0 +1,6 @@
+com\mavrk\springmvc\configuration\ClientRegistrationConfiguration.class
+com\mavrk\springmvc\service\impl\ClientServiceImpl.class
+com\mavrk\springmvc\controller\ClientRegistrationRestController.class
+com\mavrk\springmvc\service\ClientService.class
+com\mavrk\springmvc\configuration\ClientRegistrationInitializer.class
+com\mavrk\springmvc\model\Client.class
